@@ -1,0 +1,12 @@
+1.0.0
+Initial release; change to semantic versioning
+
+1.1.0
+Added custom config file name support
+Added NickServ support
+Added raw command support via PM from an owner
+Added suppot for NICK change from IRC server
+Added barebones functions for parsing private/public messages
+Optional debugging messages
+Updated config.sh
+Added error checking
